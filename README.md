@@ -61,7 +61,6 @@ Developed by:E Subash Miracle Raj RegisterNumber:24000572
 
 ![ss4](https://github.com/user-attachments/assets/0f17379b-2d51-49f7-853a-402fee7130de)
 
-
 **RESULTS**
 
 Thus, the Serial-In Serial-Out (SISO) Shift Register is implemented using Verilog, and its functionality is validated with the truth table and timing diagrams.
